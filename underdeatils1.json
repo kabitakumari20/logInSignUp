@@ -1,0 +1,14 @@
+{
+  "userdetails": [
+    {
+      "name": "kobi",
+      "password": "Kobi@12",
+      "profile": {
+        "description": "dance",
+        "dob": "3 may",
+        "hobbies": "song",
+        "genral": "f"
+      }
+    }
+  ]
+}
